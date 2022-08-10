@@ -1,0 +1,23 @@
+{
+  "name": "readme-generator-ansari",
+  "version": "1.0.0",
+  "description": "This contains the Module 9 Challenge\r ## Description\r - This project is a README generator.\r - It allows users to answer questions via command line which then generates a README",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaansari123/README-generator-Ansari.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aaansari123/README-generator-Ansari/issues"
+  },
+  "homepage": "https://github.com/aaansari123/README-generator-Ansari#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
