@@ -34,7 +34,7 @@
   
   ## Questions
   My github can be found at [www.github.com/aaansari123](https://github.com/aaansari123)<br/>
-  You can reach me via email at [asadali1029@gmail.com](asadali1029@gmail.com)
+  You can reach me via email at [asadali1029@gmail.com](mailto:asadali1029@gmail.com)
 
   ## Link
   [Video](https://drive.google.com/file/d/1nWz3888BROS74k7uqRmJo1xLD_GshJgA/view)

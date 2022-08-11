@@ -65,7 +65,7 @@ function generateMarkdown({title, description, install, usage, contribution, tes
   
   ## Questions
   My github can be found at [www.github.com/${github}](https://github.com/${github})<br/>
-  You can reach me via email at [${email}](${email})
+  You can reach me via email at [Contact Me](mailto:${email})
   `;
 }
 
