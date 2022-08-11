@@ -33,7 +33,7 @@
   N/a
   
   ## Questions
-  My github can be found at [www.github.com/aaansari123].github.com/aaansari123)<br/>
+  My github can be found at [www.github.com/aaansari123](.github.com/aaansari123)<br/>
   You can reach me via email at [asadali1029@gmail.com](asadali1029@gmail.com)
 
   ## Link
