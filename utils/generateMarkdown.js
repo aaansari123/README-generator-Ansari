@@ -2,9 +2,9 @@
 // If there is no license, return an empty string
 function renderLicenseBadge(license) {
     if (license == 'MIT'){
-        return `[![MIT Badge](https://https://img.shields.io/badge/license-MIT-green)](https://choosealicense.com/licenses/mit/)`
+        return `[![MIT Badge](https://img.shields.io/badge/license-MIT-green)](https://choosealicense.com/licenses/mit/)`
     }else if (license == 'GNU GPLv3'){
-        return `[![MIT Badge](https://https://img.shields.io/badge/license-GNU_GPLv3-green)](https://choosealicense.com/licenses/gpl-3.0/)`
+        return `[![GNU Badge](https://img.shields.io/badge/license-GNU_GPLv3-green)](https://choosealicense.com/licenses/gpl-3.0/)`
     }else {
         return '';
     }
@@ -41,7 +41,6 @@ function generateMarkdown({title, description, install, usage, contribution, tes
   
   - [Installation](#installation)
   - [Usage](#usage)
-  - [Credits](#credits)
   - [License](#license)
   
   ## Installation
@@ -65,7 +64,7 @@ function generateMarkdown({title, description, install, usage, contribution, tes
   ${test}
   
   ## Questions
-  My github can be found at [www.github.com/${github}](www.github.com/${github})<br/>
+  My github can be found at [www.github.com/${github}](https://github.com/${github})<br/>
   You can reach me via email at [${email}](${email})
   `;
 }
